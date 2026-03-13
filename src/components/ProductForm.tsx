@@ -1,3 +1,4 @@
+"use client";
 import { useState } from "react";
 
 export default function ProductForm({ onSubmit }: { onSubmit: (data: any) => void }) {
